@@ -1,0 +1,12 @@
+.layout-row {
+  display:flex;
+  flex-direction:column;
+  
+}
+.width {
+  max-width: 300px;
+  margin-bottom: 15px;
+}
+.height{
+  height:150px;
+}
